@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/可达鸭.jpg"
   name             : "Chenming Zhou"
   email            : "zhoucm@nuaa.edu.cn" 
 
